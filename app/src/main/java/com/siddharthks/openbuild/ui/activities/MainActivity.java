@@ -1,7 +1,9 @@
-package com.siddharthks.openbuild;
+package com.siddharthks.openbuild.ui.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.siddharthks.openbuild.R;
 
 public class MainActivity extends AppCompatActivity {
 
