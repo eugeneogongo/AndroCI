@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-Green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-Green.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/siddharth2010/AndroCI.svg?branch=master)](https://travis-ci.org/siddharth2010/AndroCI)
 
 # AndroCI
 

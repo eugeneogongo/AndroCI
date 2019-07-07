@@ -1,6 +1,7 @@
 language: android
 sudo: false
 dist: trusty
+jdk: oraclejdk8
 
 before_install:
   - chmod +x gradlew
@@ -23,5 +24,8 @@ android:
     - extra-google-m2repository
     - extra-android-m2repository
 
-licenses:
+  licenses:
   - '.+'
+
+script:
+  - "./gradlew clean build --stacktrace"
