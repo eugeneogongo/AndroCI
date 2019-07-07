@@ -25,12 +25,6 @@ android {
         vectorDrawables.useSupportLibrary = true
     }
     buildTypes {
-        release {
-            minifyEnabled true
-            shrinkResources true
-            signingConfig signingConfigs.signing
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
         debug {
             if (!rootProject.file('gradle.properties').exists()) {
                 signingConfig signingConfigs.signing
