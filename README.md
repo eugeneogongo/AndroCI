@@ -34,3 +34,7 @@ The app is divided into two Components:
 - The `APICommunicator` Library, which provides an interface to make API Calls and Authorization Requests via GitHub and Travis APIs.
 - The `AndroCI` app, which is basically a front end, and has the `APICommunicator` Library as a dependency.
 
+
+| APICommunicator | AndroCI 
+|:-------------:|:-------------:
+| ![APICommunicator](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/rest_services.png) | ![AndroCI](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/front_end.png)
