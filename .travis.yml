@@ -1,9 +1,10 @@
-
 language: android
 sudo: false
 dist: trusty
-  before_install:
-    - chmod +x gradlew
+
+before_install:
+  - chmod +x gradlew
+
 android:
   components:
     # Uncomment the lines below if you want to
