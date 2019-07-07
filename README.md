@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-Green.svg)](https://opensource.org/licenses/MIT)
+
 # AndroCI
 
 A beautiful Travis CI client!
