@@ -2,12 +2,11 @@
 
 A beautiful Travis CI client!
 
-## Libraries in Use
-- [**Retrofit**](https://github.com/square/retrofit) for constructing the REST API
-- [**Picasso**](https://github.com/square/picasso) for loading images
-- [**Gson**](https://github.com/google/gson) to convert Java objects to JSON and vice-versa
-- [**Gson Converter**](https://github.com/square/retrofit/tree/master/retrofit-converters/gson) for serialization to and from JSON
+## Screenshots:
 
+| GitHub OAuth | Repo List | The Navbar
+|:-------------:|:-------------:|:-------------:
+| ![GitHub OAuth](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/authorization.png)|![Repo List](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/repo_list.png)|![The Navbar](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/navbar.png)|
 
 _AndroCI is under active development. More features are on their way!_
 
@@ -38,3 +37,10 @@ The app is divided into two Components:
 | APICommunicator | AndroCI 
 |:-------------:|:-------------:
 | ![APICommunicator](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/rest_services.png) | ![AndroCI](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/front_end.png)
+
+
+## Libraries in Use
+- [**Retrofit**](https://github.com/square/retrofit) for constructing the REST API
+- [**Picasso**](https://github.com/square/picasso) for loading images
+- [**Gson**](https://github.com/google/gson) to convert Java objects to JSON and vice-versa
+- [**Gson Converter**](https://github.com/square/retrofit/tree/master/retrofit-converters/gson) for serialization to and from JSON
