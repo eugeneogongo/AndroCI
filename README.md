@@ -8,7 +8,7 @@ A beautiful Travis CI client!
 
 | GitHub OAuth | Repo List | The Navbar
 |:-------------:|:-------------:|:-------------:
-| ![GitHub OAuth](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/authorization.png)|![Repo List](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/repo_list.png)|![The Navbar](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/navbar.png)|
+| ![GitHub OAuth](https://github.com/siddharth2010/AndroCI/blob/master/screenshots/authorization.png)|![Repo List](https://github.com/siddharth2010/AndroCI/blob/master/screenshots/repo_list.png)|![The Navbar](https://github.com/siddharth2010/AndroCI/blob/master/screenshots/navbar.png)|
 
 _AndroCI is under active development. More features are on their way!_
 
@@ -38,7 +38,7 @@ The app is divided into two Components:
 
 | APICommunicator | AndroCI 
 |:-------------:|:-------------:
-| ![APICommunicator](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/rest_services.png) | ![AndroCI](https://github.com/siddharth2010/Android-Build-Client/blob/master/screenshots/front_end.png)
+| ![APICommunicator](https://github.com/siddharth2010/AndroCI/blob/master/screenshots/rest_services.png) | ![AndroCI](https://github.com/siddharth2010/AndroCI/blob/master/screenshots/front_end.png)
 
 
 ## Libraries in Use
