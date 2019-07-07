@@ -12,15 +12,6 @@ buildProperties {
 }
 
 android {
-    signingConfigs {
-        signing {
-            keyAlias((buildProperties.secrets['android_key_alias'] | buildProperties.notThere['android_key_alias']).string)
-            keyPassword((buildProperties.secrets['android_store_password'] | buildProperties.notThere['android_store_password']).string)
-            storeFile file('openci-public.jks')
-            storePassword((buildProperties.secrets['android_store_password'] | buildProperties.notThere['android_store_password']).string)
-        }
-    }
-
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.siddharthks.androci"

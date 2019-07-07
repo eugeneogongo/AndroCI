@@ -1,5 +1,9 @@
+
 language: android
+sudo: false
 dist: trusty
+  before_install:
+    - chmod +x gradlew
 android:
   components:
     # Uncomment the lines below if you want to
@@ -17,3 +21,6 @@ android:
     - extra-google-google_play_services
     - extra-google-m2repository
     - extra-android-m2repository
+
+licenses:
+  - '.+'
