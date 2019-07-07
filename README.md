@@ -21,7 +21,7 @@ _AndroCI is under active development. More features are on their way!_
   - Please follow the steps [here](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/), in order to set up your credentials for using this app.
 
 #### Setting up the project in Android Studio
-- Once you are done with this, create a file with the name "dubug_gradle.properties", and paste the following code:
+- Once you are done with this, create a file with the name "debug_gradle.properties", and paste the following code:
 ```groovy
 github_client_id=<Client ID Generated in Step 1>
 github_secret=<Secret ID Generated in Step 1>
